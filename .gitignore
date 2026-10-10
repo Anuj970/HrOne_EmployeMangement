@@ -22,3 +22,10 @@ Thumbs.db
 *.dump
 *.bson
 dump/
+
+scale_seed.py
+concurrency_test.py
+edge_test.py
+PROBLEM_STATEMENT.docx
+sample_data
+sample_seed.py
